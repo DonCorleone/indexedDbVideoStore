@@ -8,7 +8,7 @@
          "type": "chrome",
          "request": "launch",
          "name": "Launch Chrome against localhost",
-         "url": "file:///Users/dev/Documents/examples/clientSideStorage/indexedDb/videos/index.html",
+         "url": "file:///Users/dev/Documents/examples/clientSideStorage/indexedDb/indexedDbVideoStore/index.html",
          "webRoot": "${workspaceFolder}"
       }
    ]
